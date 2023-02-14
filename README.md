@@ -3,16 +3,16 @@
 - 🌱 I’m currently learning timeseries forecasting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+<br />
 # $$\text{\color{orange}Parvez\\ Alam}$$
-Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175| LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez <br />
+$$Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175|$$ <br />$$LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez$$ <br />
 To leverage my background in Supply Chain and Industrial Engineering, and my expertise in data analysis and visualization, to drive data-driven decisions and optimize business operations as a data analyst in a dynamic and fast-paced organization.
 
 
 ## $$\text{\color{lightblue}Technical\\ Skills}$$
-Languages: Python, R, JavaScript ES6+, HTML5, SQL 
-Applications: GitHub, MongoDB, PostgreSQL, GIT, AWS, Flask, Tableau, Leaflet, Bootstrap
-Tools: Excel, Seaborn, Scikit learn, TensorFlow, Databasing, Pandas, Jupyter Notebook,  Google Colab
+Languages: Python, R, JavaScript ES6+, HTML5, SQL <br />
+Applications: GitHub, MongoDB, PostgreSQL, GIT, AWS, Flask, Tableau, Leaflet, Bootstrap <br />
+Tools: Excel, Seaborn, Scikit learn, TensorFlow, Databasing, Pandas, Jupyter Notebook,  Google Colab <br />
 
 
 
@@ -35,7 +35,7 @@ I used Leaflet, HTM and JavaScript for the project.
 ### Web Design | <sub>https://github.com/mmparvez/Web-Design-Challenge.git</sub>
 Creating an interactive webpage from scratch was the goal of the project.
 I have created seven HTML pages linked to the landing page. Each page shows changes of maximum temperature, humidity, cloudiness and wind speed with the changes of latitude of a certain day. First I collect the weather data of different important cities in the world of that day. Then I find the Geolocation of the cities and plot them in scatter plots with latitude. These plots were shown on each page of my webpages. Also I showed the data table in a separate page.
-Python, Matplotlib, HTML, CSS, Bootstrap.
+Python, Matplotlib, HTML, CSS, Bootstrap. <br />
 
 
 ## $$\text{\color{lightblue}Work\\ Experience}$$
@@ -57,7 +57,7 @@ Direct sourcing of Soft-line trims and Packaging items.
 Developing supply strategy, analyzing supply market, negotiating, managing contracts, and evaluating supplier performance.
 P2P of purchasing and import activities with import document preparation. 
 Capacity Planning and Material Planning.
-MANAGEMENT REPRESENTATIVE of ISO 9001-2000 & IMS.
+MANAGEMENT REPRESENTATIVE of ISO 9001-2000 & IMS. <br />
  
  
 ## $$\text{\color{lightblue}Education}$$
