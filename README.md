@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 # $$\text{\color{orange}Parvez\\ Alam}$$
-Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175| LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez 
+Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175| LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez <br />
 To leverage my background in Supply Chain and Industrial Engineering, and my expertise in data analysis and visualization, to drive data-driven decisions and optimize business operations as a data analyst in a dynamic and fast-paced organization.
 
 
