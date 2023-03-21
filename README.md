@@ -19,49 +19,48 @@ Tools: Excel, Seaborn, Scikit learn, TensorFlow, Databasing, Pandas, Jupyter Not
 <br />
 <br />
 <br />
-## $$\text{\color{lightblue}Projects}$$
-### Human Emotion Recognition |<sub> https://github.com/mmparvez/project_4.git </sub>
-This project aims to develop a machine learning model that can accurately classify human emotions based on facial expressions. Additionally, a second model has also been trained, for recognising if an image is a human face or not, for potential use in conjunction with the initial emotion recognition model.
-The design of the project, coding, model design and optimization of the Convolutional Neural Network model, training and testing the model was done.
-All code was written in python, stored all images in google drive and a google colab notebook to run the code. Besides TensorFlow layers were used to design the Convolutional Neural Network model
-
-### Citi Bike Trip Data Visualization |<sub> https://public.tableau.com/views/Week-18TableauChallenge/PopStn?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link </sub>
-This was a visualization and insight finding project of the trip data of the New York Citi Bike Program. The goal of the project was to build skills of creating a dashboard and a story of the insights in Tableau.
-The data sets were collected from source and loaded on Tableau after the ETL process. After intense observation on the data table some facts were found to visualize which creates a scope to deeper analysis. Three dashboards with interactive maps and charts and a story were created on fact finding steps.
-A python code was written to Extract Transform and Load the data and Tableau to analyze and visualize.
-
-### Earthquake on World Map |<sub> https://github.com/mmparvez/leaflet-challenge.git</sub>
-Visualizing an important natural phenomenon on a world map was the main goal of the project. In addition to finding any insight or hidden fact on the Earthquake data.
-The USGS is a very good source of the GeoJSON data of world earthquake history. A html and a supporting JavaScript were created to read the earthquake data and plot bubble markers on the location of the quake in a world map. The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. A map layer was also added to show the tectonic plates. 
-Leaflet, HTM and JavaScript were used for the project.
-
-### Web Design | <sub>https://github.com/mmparvez/Web-Design-Challenge.git</sub>
-Creating an interactive webpage from scratch was the goal of the project.
-A landing page was created in addition to Seven HTML pages linked to the landing page. Each page shows changes of maximum temperature, humidity, cloudiness and wind speed with the changes of latitude of a certain day. The plots of each feature with the latitude of the locations were shown on each page of my webpages.There was a data table in a separate page as well.
-Python, Matplotlib, HTML, CSS, Bootstrap were used in the project. <br />
-<br />
-
 
 ## $$\text{\color{lightblue}Work\\ Experience}$$
+### Production & Purchase Facilitator <sub>2020 to 2022, Bravo print and design, Keysborough VIC</sub>
+Slashed the material cost to 5.5% by offering term purchase. Raised inventory accuracy to 97%.
+* Compare and evaluate offers from suppliers.
+* Negotiate contract terms of agreement and pricing.
+* Review the quality of purchased products.
+* Maintain updated records of purchased products, delivery information and invoices.
+* Prepare weekly and monthly reports on purchases, including cost analyses.
+* Monitor stock levels, Periodic stock takes to place orders as needed.
+* Coordinate with warehouse staff to ensure proper storage.
+* Material planning to ensure on-time production.
+* Leads to ethical or sustainable sourcing.
+<br />
+
 ### Documentation Officer <sub>2013-2016, FLETCHER INT EXP, Dubbo NSW</sub>
-Halal Certification of Meat, 
-Request For export Permit, 
-Checking Load out papers and Compliance.
-Collecting production data and analyzing yield.
-Confirm branding and export requirements of meat products for EU, Middle East, Japan and Africa.
+Upgraded the Export permit process by introducing VBA automated data entry form to prepare all export-related certification and Permit applications. And slashed the export docs preparation time from 1 day to 2 hours.
+* To collect all related data to fill in the export-related forms.
+* Print all information correctly and precisely in all pre-printed forms.
+* Organized Halal Certification of Meat, 
+* Produced request For export Permit, 
+* Collected production data and analysed yield in excel.
+* Ensured branding and export requirements of meat products for the European Union, Middle East, Japan and Africa.
+<br />
 
 ### Production Manager <sub>2012-2013, AVERY DENNISON Bangladesh</sub>
-Act as Enterprise Lean Sigma leader.
-Implement best practices and best work process in manufacturing and packing.
-Managing all in-house projects on TPS guidelines.
-Align Capacity Planning and Material Planning according to the demand.
+Increased production capacity to 19% by reducing the maintenance wait time and redistributing resources. Reduced quality complaints by 23% by realigning the packing process.
+* Act as Enterprise Lean Sigma leader.
+* Implement best practices and best work process in manufacturing and packing.
+* Managing all in-house projects on TPS guidelines.
+* Align Capacity Planning and Material Planning according to the demand.
+* Produced all reports and Key Performance Data in SAP and Excel.
+<br />
 
 ### Supply Chain Manager <sub>2008-2012, KDS ACCESSORIES Bangladesh</sub>
-Direct sourcing of Soft-line trims and Packaging items.
-Developing supply strategy, analyzing supply market, negotiating, managing contracts, and evaluating supplier performance.
-P2P of purchasing and import activities with import document preparation. 
-Capacity Planning and Material Planning.
-MANAGEMENT REPRESENTATIVE of ISO 9001-2000 & IMS. <br />
+Improved productivity of the purchasing team by 13% by properly categorising, prioritising and taking appropriate action plans for the right category. Also centralised the inventory control to increase Store to Store item transfer which increased inventory turns from 4 to 6 and 13% less working capital.
+* Managed direct sourcing of Soft-line trims and Packaging items.
+* Developed a supply strategy to analyze the supply market, negotiate under contracts and evaluate supplier performance.
+* Introduced Purchase-to-Pay on all purchase and import activities with import document preparation. 
+* Organized Capacity and Material Planning.
+* Acted as Management representative of ISO 9001-2000 & IMS.
+* Create all report formats in excel and accumulate all inputs to track the entire process.<br />
 <br />
 <br />
  
