@@ -6,21 +6,32 @@
 
 # $$\text{\color{orange}Parvez\\ Alam}$$
 
-$$Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175|
-LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez$$ <br />
+Phone: (+61) 0424844007 | Email: alampmail@gmail.com | Dandenong, VIC 3175|
+LinkedIn: /in/parvez-alam-14666833 | GitHub: /mmparvez <br />
 
-A recent Data Analyst graduate with a background in Supply Chain Management and Industrial Engineering possessing strong analytical and technical skills to solve complex business problems. Skilled in statistical analysis, data modeling, database management, data visualization tools and Machine Learning, with proficiency in programming languages such as Python and SQL. A deep understanding of end-to-end supply chain processes enables optimization of operations, reducing costs, and improving efficiency. Seeking an opportunity to leverage these skills to make a significant contribution to a data-driven organization.
+Skilled Business Analyst with 2 years of experience in creating insightful dashboards and efficient data flows. Adept at transforming complex data into actionable insights and designing data processes that enhance accuracy and accessibility. Proven ability to collaborate with stakeholders and deliver data-driven solutions that support strategic goals. Proficient in advanced analytical tools and techniques.
 <br />
 <br />
 ## $$\text{\color{lightblue}Technical\\ Skills}$$
-Languages: Python, R, JavaScript ES6+, HTML5, SQL <br />
-Applications: GitHub, MongoDB, PostgreSQL, GIT, AWS, Flask, Tableau, Leaflet, Bootstrap <br />
-Tools: Excel, Seaborn, Scikit learn, TensorFlow, Databasing, Pandas, Jupyter Notebook,  Google Colab <br />
+Languages: Python, R, JavaScript ES6+, HTML5, SQL, VBA, Mcode, Dax <br />
+Applications: GitHub, MongoDB, PostgreSQL, GIT, Flask,, Leaflet, Bootstrap, S3, Spark, and AWS, MS Dynamics NAV <br />
+Tools: Excel, Seaborn, Scikit learn, TensorFlow, Pandas, Jupyter Notebook, Google Colab, Power BI, FileMakers <br />
+Others: DashBoards, Data Flows, ERP, Supply chain cost analysis, Supplier performance analysis, Market Basket Analysis, Forecasting, Revenue Analysis, PriceVolumeMix Analysis, Reconciliation analysis of Beef cuts, Overdue receivable analysis.
 <br />
 <br />
 <br />
 
 ## $$\text{\color{lightblue}Work\\ Experience}$$
+### Business Analyst 2022-2024, Harmony Agriculture and Food Company</sub>
+Create interactive dashboards in PowerBI services with efficient dataflows to live update the dashboards.
+●	Identify and Develop relationship maps for MS Dynamics NAV 2017 tables.
+●	Crafted advanced SQL queries to extract and manipulate data from Dynamics NAV.
+●	Designed and implemented live PowerBI dashboards for real-time data visualization.
+●	Created and managed dataflows using Python to ensure live data feeds for dashboards.
+●	Designed and developed databases and graphical user interfaces (GUIs) for seamless database interaction.
+●	Automated data export processes from FileMaker databases to Excel and Parquet formats.
+<br />
+
 ### Production & Purchase Facilitator <sub>2020 to 2022, Bravo print and design, Keysborough VIC</sub>
 Slashed the material cost to 5.5% by offering term purchase. Raised inventory accuracy to 97%.
 * Compare and evaluate offers from suppliers.
@@ -53,19 +64,20 @@ Increased production capacity to 19% by reducing the maintenance wait time and r
 * Produced all reports and Key Performance Data in SAP and Excel.
 <br />
 
-### Supply Chain Manager <sub>2008-2012, KDS ACCESSORIES Bangladesh</sub>
+### Supply Chain Manager <sub>2007-2012, PRAN-RFL Groups, Dhaka Bangladesh </sub>
 Improved productivity of the purchasing team by 13% by properly categorising, prioritising and taking appropriate action plans for the right category. Also centralised the inventory control to increase Store to Store item transfer which increased inventory turns from 4 to 6 and 13% less working capital.
-* Managed direct sourcing of Soft-line trims and Packaging items.
-* Developed a supply strategy to analyze the supply market, negotiate under contracts and evaluate supplier performance.
-* Introduced Purchase-to-Pay on all purchase and import activities with import document preparation. 
-* Organized Capacity and Material Planning.
-* Acted as Management representative of ISO 9001-2000 & IMS.
-* Create all report formats in excel and accumulate all inputs to track the entire process.<br />
+●	Implemented KPI’s and user ratings for Supply Chain Department.
+●	Conducted yearly supplier meetings with the directors.
+●	Introduced nomination strategy to leverage purchase for a period to win better values.
+●	Developed a supply strategy to analyze the supply market, negotiate under contracts and evaluate supplier performance.
+●	Organized Capacity and Material Planning.
+●	Create all report formats in excel and accumulate all inputs to track the entire process.
+.<br />
 <br />
 <br />
  
 ## $$\text{\color{lightblue}Education}$$
-### Certificate, Data Analytics 
+### Graduate Certificate, Data Analytics 
 Monash University, VIC, Australia
 
 ### Advance Diploma in SUPPLY CHAIN MANAGEMENT 
