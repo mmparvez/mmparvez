@@ -1,134 +1,136 @@
-# Hi, I'm Parvez Alam 👋
+# Hi there 👋 I'm Parvez Alam
 
-## Business Analyst | Data Analyst | Power BI Developer
+### Business Analyst | Data Analyst | Power BI Developer
 
-Data-driven Business Analyst with 3+ years of experience transforming complex business data into actionable insights through Power BI, SQL, Python, and data analytics. Strong background in supply chain management, wholesale distribution, manufacturing, and business intelligence.
+Turning complex business data into actionable insights through analytics, automation, and visualization.
 
-Currently focused on customer analytics, forecasting, data automation, and advanced Power BI solutions.
-
----
-
-### 🚀 What I Do
-
-- Build interactive Power BI dashboards
-- Design scalable ETL and dataflow solutions
-- Develop SQL-based reporting systems
-- Automate business processes with Python
-- Perform customer and sales analytics
-- Deliver KPI and executive reporting solutions
-- Transform ERP data into business insights
+With experience across Business Analysis, Supply Chain Management, Manufacturing, and Data Analytics, I specialize in building data solutions that help businesses improve performance, visibility, and decision-making.
 
 ---
 
-### 🛠 Technical Skills
+## 📊 Analytics Stack
 
-#### Analytics & BI
-- Power BI
-- DAX
-- Power Query (M)
-- Excel
-- KPI Development
-- Data Modelling
-- Data Visualization
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
-#### Programming
-- Python
-- SQL
-- R
-- VBA
-- JavaScript
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### Python Libraries
-- Pandas
-- NumPy
-- Scikit-Learn
-- Seaborn
-- TensorFlow
-- Matplotlib
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-#### Databases & Platforms
-- SQL Server
-- PostgreSQL
-- MongoDB
-- MS Dynamics NAV
-- FileMaker
-- AWS
-- Spark
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-#### Business Analytics
-- Supply Chain Analytics
+---
+
+## 🚀 About Me
+
+✅ 3+ years experience in Business Analytics and Business Intelligence
+
+✅ Graduate Certificate in Data Analytics – Monash University
+
+✅ Advanced Diploma in Supply Chain Management
+
+✅ B.Sc. Industrial & Production Engineering
+
+✅ Experienced in ERP, Supply Chain, Manufacturing & Wholesale Distribution Analytics
+
+✅ Building scalable dashboards, dataflows and automated reporting solutions
+
+---
+
+## 💼 Core Expertise
+
+- Power BI Dashboard Development
+- Data Modeling & ETL
+- DAX & Power Query
+- SQL Analytics
+- Python Automation
 - Customer Analytics
 - Cohort Analysis
-- Forecasting
-- Revenue Analysis
-- Price Volume Mix Analysis
+- Sales Performance Analysis
+- Forecasting & Time Series Analysis
+- Supply Chain Analytics
 - Inventory Optimization
-- Supplier Performance Analysis
-- Market Basket Analysis
+- KPI Framework Development
+- Revenue & Margin Analysis
 
 ---
 
-### 📈 Featured Projects
+## 📂 Featured Projects
 
-#### 📊 Sales Performance Dashboard
-Power BI dashboard providing sales trends, customer segmentation, profitability analysis, and KPI monitoring.
+### 📊 Sales Performance Dashboard
+Executive Power BI dashboard for monitoring sales performance, profitability, customer segmentation and KPI reporting.
 
-#### 👥 Customer Cohort Analysis
-Customer retention and acquisition analytics using Power BI, DAX, and Python.
-
-#### 🥩 Meat Industry Analytics
-Wholesale meat sales, yield analysis, margin reporting, and customer performance dashboards.
-
-#### 🤖 Forecasting Models
-Time series forecasting projects using Python and machine learning techniques.
+🔗 Repository:
+https://github.com/mmparvez/sales-performance-dashboard
 
 ---
 
-### 💼 Professional Experience
+### 👥 Customer Cohort Analysis
+Customer acquisition, retention, repeat purchase and cohort reporting using Power BI and Python.
 
-**Business Analyst | Harmony Agriculture & Food Co.**
-*2023 – Present*
-
-- Developed enterprise Power BI dashboards
-- Built live dataflows and ETL pipelines
-- Created advanced SQL reporting solutions
-- Integrated Dynamics NAV data into analytical platforms
-- Automated reporting and data extraction processes
+🔗 Repository:
+https://github.com/mmparvez/customer-cohort-analysis
 
 ---
 
-### 🎓 Education
+### 🥩 Meat Industry Analytics
+Wholesale meat trading analytics covering yield, margin, customer profitability and product performance.
 
-**Graduate Certificate in Data Analytics**
-Monash University, Australia
-
-**Advanced Diploma in Supply Chain Management**
-International Trade Centre (ITC), Switzerland
-
-**B.Sc. Industrial & Production Engineering**
-Shahjalal University of Science and Technology
+🔗 Repository:
+https://github.com/mmparvez/meat-industry-analytics
 
 ---
 
-### 🌱 Currently Learning
+### 🤖 Forecasting & Predictive Analytics
+Time series forecasting and machine learning models for business planning.
+
+🔗 Repository:
+https://github.com/mmparvez/forecasting-projects
+
+---
+
+### 🐍 Python Data Analytics
+Data cleansing, transformation, automation and reporting workflows built using Python.
+
+🔗 Repository:
+https://github.com/mmparvez/python-data-analytics
+
+---
+
+## 📈 Current Focus
 
 - Time Series Forecasting
-- Predictive Analytics
-- Machine Learning Applications in Business
-- Advanced Python for Data Analytics
+- Customer Retention Analytics
+- Machine Learning for Business Applications
+- Power BI Advanced Modeling
+- Data Engineering with Python
 
 ---
 
-### 📫 Connect With Me
+## 🌎 Industry Experience
 
-📧 Email: mm.parvez.alam@outlook.com
-
-💼 LinkedIn: https://www.linkedin.com/in/parvez-alam-14666833
-
-💻 GitHub: https://github.com/mmparvez
+- Food & Agribusiness
+- Meat Processing & Distribution
+- Supply Chain & Procurement
+- Manufacturing
+- Wholesale Distribution
+- Export Documentation & Compliance
 
 ---
 
-### ⚡ Fun Fact
+## 📫 Connect With Me
 
-My career spans Supply Chain Management, Manufacturing, Procurement, Business Analysis, and Data Analytics—allowing me to combine strong business knowledge with modern analytical techniques to solve real-world problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parvez%20Alam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parvez-alam-14666833)
+
