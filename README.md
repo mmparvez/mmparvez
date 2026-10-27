@@ -121,7 +121,7 @@ Shahjalal University of Science and Technology
 
 ### 📫 Connect With Me
 
-📧 Email: alampmail@gmail.com
+📧 Email: mm.parvez.alam@outlook.com
 
 💼 LinkedIn: https://www.linkedin.com/in/parvez-alam-14666833
 
