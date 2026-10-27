@@ -87,7 +87,7 @@ Time series forecasting projects using Python and machine learning techniques.
 ### 💼 Professional Experience
 
 **Business Analyst | Harmony Agriculture & Food Co.**
-*2022 – Present*
+*2023 – Present*
 
 - Developed enterprise Power BI dashboards
 - Built live dataflows and ETL pipelines
