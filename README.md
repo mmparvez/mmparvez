@@ -85,11 +85,11 @@ https://github.com/mmparvez/customer-cohort-analysis
 
 ---
 
-### 🥩 Meat Industry Analytics
-Wholesale meat trading analytics covering yield, margin, customer profitability and product performance.
+### 🥩 Market Basket Analytics
+Market basket analysis of meat sales uncovers which cuts, types, or complementary grocery items customers frequently buy together.
 
 🔗 Repository:
-https://github.com/mmparvez/meat-industry-analytics
+https://github.com/mmparvez/market_basket
 
 ---
 
