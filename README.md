@@ -111,6 +111,7 @@ https://github.com/mmparvez/python-data-analytics
 
 ## 📈 Current Focus
 
+- AI Engineering & Enterprise Integration
 - Time Series Forecasting
 - Customer Retention Analytics
 - Machine Learning for Business Applications
