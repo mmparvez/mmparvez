@@ -97,7 +97,7 @@ https://github.com/mmparvez/meat-industry-analytics
 Time series forecasting and machine learning models for business planning.
 
 🔗 Repository:
-https://github.com/mmparvez/forecasting-projects
+https://github.com/mmparvez/marbling-forecaster
 
 ---
 
